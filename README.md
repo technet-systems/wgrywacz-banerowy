@@ -10,6 +10,8 @@ Aplikacja do prezentacji banerów reklamowych na potrzeby e-marketingu.
 
 ## Build:
 * czysty PHP OOP
+* Bootstrap 3.x
+* kilka bibliotek jQuery (m.in. do upload'u zdjęć za pomocą drag-n-drop)
 
 ## Changelog:
 * 1.0.0 (2014-09-15)
