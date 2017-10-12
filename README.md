@@ -2,7 +2,6 @@
 
 ## Description:
 Aplikacja do prezentacji banerów reklamowych na potrzeby e-marketingu.
-* [x] [Instrukcja](https://github.com/technet-systems/zliczacz-godzinowo-posilkowy/blob/master/docs/zliczacz-instrukcja.pdf)
 
 ## Features:
 * [x] Możliwość tworzenia wielu kreacji dla danego Klienta
