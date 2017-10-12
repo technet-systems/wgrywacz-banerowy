@@ -1,0 +1,1 @@
+http://www.php5dp.com/static-connection-objects-classes-properties-and-methods/

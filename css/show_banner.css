@@ -1,0 +1,23 @@
+/* 
+    Created on : 2014-11-04, 10:35:17
+    Author     : daru79
+*/
+
+#bg-page-icons {
+	background-image: url(../../images/bg-page-icons.png);
+	background-repeat: no-repeat;
+	background-position: bottom;
+	height: 127px;
+        //margin-bottom: 50px;
+        margin-top: 50px;
+}
+
+#Header-nav-bottom {
+    background-color: #4e4e4e;
+    -webkit-box-shadow: 0px -10px 10px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    0px -10px 10px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         0px -10px 10px 0px rgba(50, 50, 50, 0.75);
+    border: none;
+    border-radius: 0px;
+    margin-bottom: 0px;
+}

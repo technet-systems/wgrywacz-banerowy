@@ -1,0 +1,53 @@
+KOLORY DLA POTRZEB CSS:
+
+=> paletton.com - wybór kolorów w 'hex' lub 'rgb' lub 'hsl'
+=> http://www.css3factory.com/linear-gradients/ - wybór gradientów
+=> http://www.colorzilla.com/gradient-editor/ - wybór gradientów (z preset'ami)
+
+DARMOWE FONTY DO ZASTOSOWAÑ KOMERCYJNYCH:
+
+=> http://www.fontsquirrel.com/
+
+CV'S TEMPLATE:
+
+=> pgwebdesign.net/blog/free-creative-professional-photoshop-cv-template
+smashfreakz.com/2012/08/creative-resume-template/
+
+CSS ANIMATE:
+
+=> http://www.smashingapps.com/2014/09/18/12-css-effects-libraries-for-developers.html?utm_content=bufferf063b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+WEB INSPIRATION:
+
+=> http://www.smashingapps.com/2014/09/17/40-killer-fresh-wordpress-themes-for-free-download.html?utm_content=buffer4bdb0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+=> https://dribbble.com/shots/1667807-Free-Psd-Office-Landing-Page?utm_content=bufferfc218&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+=> webmastah.pl/tutorial/parallaxbg/index.html
+
+=> tympanus.net/Development/TabStylesInspiration/ -> tab styles
+
+AJAX UPLOADER:
+
+=> tutorialzine.com/2013/05/mini-ajax-file-upload-form/
+
+CLIENT SIDE IMAGE RESIZING:
+
+=> https://github.com/blueimp/jQuery-File-Upload/wiki/Client-side-Image-Resizing
+
+SPY SCROLL:
+
+=> http://jsfiddle.net/rKvyn/
+=> http://jsfiddle.net/mekwall/up4nu/
+=> http://jquer.in/jquery-navigation-and-menu-plugins-from-2012/anchorific/
+=> http://jqueryfordesigners.com/index.html%3Fp=19.html
+=> http://www.dynamicdrive.com/dynamicindex1/ddscrollspymenu.htm
+=> http://davidwalsh.name/mootools-scrollspy
+
+=> http://noraesae.github.io/perfect-scrollbar/ -> perfect scroll bars
+oraz REPO:
+=> https://github.com/noraesae/perfect-scrollbar
+
+INNE:
+
+=> http://mamstartup.pl/

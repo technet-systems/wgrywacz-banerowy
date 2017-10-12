@@ -1,0 +1,4 @@
+wersja 1.0.1 - 15.04.2015
+=========================
+ZMIANA - adresu URL do logowania z banners.4people.pl na banners.4people.pl/access/sign-in.html
+ZMIANA - strony startowej URL banners.4people.pl, która przekierowuje ruch na 4people.pl
