@@ -1,2 +1,2 @@
 # wgrywacz-banerowy
-Pure PHP 5.x, an OOP application
+Aplikacja do prezentacji banerów reklamowych na potrzeby e-marketingu
