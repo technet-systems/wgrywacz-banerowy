@@ -1,10 +1,10 @@
 <?php
 
 interface IConnectInfo {
-    const HOST = "localhost";
-    const UNAME = "technets_wgryw";
-    const PW = "Qn80axpJeK";
-    const DBNAME = "technets_wgryw";
+    const HOST = "CHANGE_ME";
+    const UNAME = "CHANGE_ME";
+    const PW = "CHANGE_ME";
+    const DBNAME = "CHANGE_ME";
     
     public static function doConnect();
 }
